@@ -1,14 +1,15 @@
 # Замыкания
 #### Учебник
-http://learn.javascript.ru/closures
-http://learn.javascript.ru/scope-new-function
-http://learn.javascript.ru/closures-usage
+* http://learn.javascript.ru/closures
+* http://learn.javascript.ru/scope-new-function
+* http://learn.javascript.ru/closures-usage
 
 #### Решение
 ###### Буффер
 Файлы buffer.js и buffer-clear.js
 
 [Задача](http://learn.javascript.ru/task/stringbuffer) - [Решение](http://plnkr.co/edit/LXbFR3YDealxgOxuaGU9)
+
 [Задача](http://learn.javascript.ru/task/stringbuffer-with-clear) - [Решение](http://plnkr.co/edit/LXbFR3YDealxgOxuaGU9)
 
 ###### Сумма

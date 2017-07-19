@@ -7,10 +7,8 @@ function CancelException() {}
 function inputNumber(message = 'Введите число') {
     function _getPromptValue(message) {
         let value = prompt(message, '');
-        console.log(value);
         if (value === null) throw new CancelException();
 
-        console.log(value);
         return parseFloat(value);
     }
 
@@ -20,15 +18,13 @@ function inputNumber(message = 'Введите число') {
         value = _getPromptValue('Неверный ввод. Введите число!');
     }
 
-    console.log(value);
-
     return value;
 }
 
 function getSum(values) {
     return Math.round(values.reduce(function (prev, next) {
-                return prev + next;
-            }) * 10) / 10;
+        return prev + next;
+    }) * 10) / 10;
 }
 
 let values = [];
