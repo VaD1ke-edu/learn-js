@@ -47,6 +47,7 @@ Clock.prototype.start = function() {
     }, 1000);
 };
 
+
 function ExtendedClock(options = {template: 'h:m:s', precision: 10000}) {
     Clock.apply(this, arguments);
     this._precision = options.precision;
