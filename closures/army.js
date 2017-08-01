@@ -4,12 +4,8 @@
 
 function makeArmy() {
     let shooters = [];
-    let shooter = function(i) { // функция-стрелок
-        console.log(i); // выводит свой номер
-    };
 
     for (let i = 0; i < 10; i++) {
-
         shooters.push(function(i) { // функция-стрелок
             console.log(i); // выводит свой номер
         });
