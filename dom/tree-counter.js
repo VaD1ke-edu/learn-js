@@ -13,8 +13,6 @@ class TreeCounter {
 
     /**
      * Build tree in container for data
-     *
-     * @param {Object} data - Object for tree
      */
     process() {
         let lis = elem.getElementsByTagName('li');

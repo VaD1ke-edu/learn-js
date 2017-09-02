@@ -28,5 +28,10 @@
 ##### Ивенты
 * http://plnkr.co/edit/22tkgSa8zIIbKOuWcZ5w - toggler.js
 * http://plnkr.co/edit/qxOWiQlpJSe4lZNTez48 - http://learn.javascript.ru/task/hide-message
+* http://plnkr.co/edit/qxOWiQlpJSe4lZNTez48 - http://learn.javascript.ru/task/hide-message-delegate
 * http://plnkr.co/edit/OnTpH2TRzg3AHriiehvG - carousel.js
 * http://plnkr.co/edit/UdhlaN8BKu5fjsn35Iad - ball-locator.js
+* http://plnkr.co/edit/XcjCa38ziYKB0ufmr1vL - tree-toggler.js
+* http://plnkr.co/edit/ZXfFfqwr0lDVqD8B7bOl - tooltip.js
+* http://plnkr.co/edit/AYqoUtXPS8Gp4QTQSLjo - http://learn.javascript.ru/task/catch-link-navigation
+* http://plnkr.co/edit/G4Y632A1D4W7JpC7K83l - gallery.js
