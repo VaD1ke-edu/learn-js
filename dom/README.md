@@ -35,3 +35,5 @@
 * http://plnkr.co/edit/ZXfFfqwr0lDVqD8B7bOl - tooltip.js
 * http://plnkr.co/edit/AYqoUtXPS8Gp4QTQSLjo - http://learn.javascript.ru/task/catch-link-navigation
 * http://plnkr.co/edit/G4Y632A1D4W7JpC7K83l - gallery.js
+* http://plnkr.co/edit/hichtfJY6UqDxC83pU8W - lazy-loader.js
+* http://plnkr.co/edit/SnnoeqXYufLOY3bGKK0d - script-loader.js
