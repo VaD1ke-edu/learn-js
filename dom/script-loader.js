@@ -1,3 +1,4 @@
+// http://learn.javascript.ru/task/scripts-callback
 // Создайте функцию addScripts(scripts, callback), которая загружает скрипты из массива scripts,
 // и после загрузки и выполнения их всех вызывает функцию callback.
 

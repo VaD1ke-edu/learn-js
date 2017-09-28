@@ -9,6 +9,8 @@
 * http://learn.javascript.ru/introduction-browser-events
 * http://learn.javascript.ru/obtaining-event-object
 * http://learn.javascript.ru/event-bubbling
+* http://learn.javascript.ru/onload-onerror
+* http://learn.javascript.ru/focus-blur
 
 #### Решение
 ##### Полифилы
@@ -37,3 +39,5 @@
 * http://plnkr.co/edit/G4Y632A1D4W7JpC7K83l - gallery.js
 * http://plnkr.co/edit/hichtfJY6UqDxC83pU8W - lazy-loader.js
 * http://plnkr.co/edit/SnnoeqXYufLOY3bGKK0d - script-loader.js
+* http://plnkr.co/edit/U1CwDMS9ARgywCubgwDJ - select-handler.js
+* http://plnkr.co/edit/P4nNOMc5wM02mxfg3k2T - text-editor.js
