@@ -41,3 +41,4 @@
 * http://plnkr.co/edit/SnnoeqXYufLOY3bGKK0d - script-loader.js
 * http://plnkr.co/edit/U1CwDMS9ARgywCubgwDJ - select-handler.js
 * http://plnkr.co/edit/P4nNOMc5wM02mxfg3k2T - text-editor.js
+* http://plnkr.co/edit/1T6SLNttzJ9grhSZdKJ5 - table-editor.js
