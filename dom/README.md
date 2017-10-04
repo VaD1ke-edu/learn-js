@@ -11,6 +11,7 @@
 * http://learn.javascript.ru/event-bubbling
 * http://learn.javascript.ru/onload-onerror
 * http://learn.javascript.ru/focus-blur
+* http://learn.javascript.ru/events-change
 
 #### Решение
 ##### Полифилы
@@ -42,3 +43,4 @@
 * http://plnkr.co/edit/U1CwDMS9ARgywCubgwDJ - select-handler.js
 * http://plnkr.co/edit/P4nNOMc5wM02mxfg3k2T - text-editor.js
 * http://plnkr.co/edit/1T6SLNttzJ9grhSZdKJ5 - table-editor.js
+* http://plnkr.co/edit/duAZes50JesMNC7vxa09 - deposit-calculator.js
