@@ -12,6 +12,7 @@
 * http://learn.javascript.ru/onload-onerror
 * http://learn.javascript.ru/focus-blur
 * http://learn.javascript.ru/events-change
+* http://learn.javascript.ru/widgets-structure
 
 #### Решение
 ##### Полифилы
@@ -44,3 +45,8 @@
 * http://plnkr.co/edit/P4nNOMc5wM02mxfg3k2T - text-editor.js
 * http://plnkr.co/edit/1T6SLNttzJ9grhSZdKJ5 - table-editor.js
 * http://plnkr.co/edit/duAZes50JesMNC7vxa09 - deposit-calculator.js
+
+##### Графические компоненты
+* http://plnkr.co/edit/QMwkoK55FeyLKrSdSqCK - clock.js 
+* http://plnkr.co/edit/EYXMC8EPzcmLDSwpKqQL - multiselect.js 
+* http://plnkr.co/edit/WUd5h1qA1ktKhrl0B9FD - voter.js 
